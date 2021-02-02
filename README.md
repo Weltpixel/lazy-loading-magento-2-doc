@@ -120,7 +120,7 @@
                  <ul>
                                 <li>
                                     <strong>Step 1: </strong>
-                                    <br> Before installing Lazy Loading Enhanced for Magento 2 store please check the extension compatibility. This extension is currently compatible with the following Magento versions 2.0.X. - 2.4.1. It is recommended to install the extension first on a testing server before you install it on a live (production) server.
+                                    <br> Before installing Lazy Loading Enhanced for Magento 2 store please check the extension compatibility. This extension is currently compatible with the following Magento versions 2.0.X. - 2.4.X. It is recommended to install the extension first on a testing server before you install it on a live (production) server.
                                 </li>
                                 <li>
                                     <strong>Step 2: </strong>
