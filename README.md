@@ -297,4 +297,4 @@
   </td>
  </tr>
  </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/instagram-widget-advanced-for-magento-2.html">Magento 2 Instagram Feed Widget by WeltPixel</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html">Magento 2 Lazy Load Products and Images by WeltPixel</a></h3>
