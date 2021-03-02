@@ -1,11 +1,11 @@
-<h1><a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html">Magento 2 Lazy Load Products And Images by WeltPixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Lazy Load Products And Images by WeltPixel.</a></h1>
 <br/><br/>
 <table>
 	<tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html"><img src="https://www.weltpixel.com/media/catalog/product/2/3/23_lazy_loader_monitor_2_1.png" alt="Lazy Load Products And Images"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/2/3/23_lazy_loader_monitor_2_1.png" alt="Lazy Load Products And Images"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
   	<h2>About the Lazy Load Products And Images for Magento 2.</h2>
                         <p>
@@ -23,8 +23,8 @@
                         <p>
                             High speed and performance ensure a smooth user experience, better conversion and improved SEO score. After installing the extension, is it enough to Enable it from Magento Admin as it is integrated out of the box with Magento 2 product structure.
                         </p>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html">Lazy Load Products And Images by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Lazy Load Products And Images by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
 </div></td>
  </tr>
 </table>
@@ -105,7 +105,7 @@
                 </li>
                  <li>
                 <strong>Step 4: </strong><br>
-                  In your browser go to www.yourmagentostore.com/<strong>weltpixel-extension-installation/</strong> and simply follow the installation steps from the graphical interface, presented in your browser. See the installation video: <a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html#video-installation" target="blank">1 Minute Module Installation via browser GUI.</a>
+                  In your browser go to www.yourmagentostore.com/<strong>weltpixel-extension-installation/</strong> and simply follow the installation steps from the graphical interface, presented in your browser. See the installation video: <a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html#video-installation?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="blank">1 Minute Module Installation via browser GUI.</a>
                  </li>
                <li>
                 <strong>Step 5: </strong><br>
@@ -192,8 +192,8 @@
                         </ul> 
                         <h2>Magento Marketplace Installation.</h2>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                 <h2>How To Add Lazy Loading in Magento?</h2>
 <table>
 
@@ -297,4 +297,4 @@
   </td>
  </tr>
  </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html">Magento 2 Lazy Load Products and Images by WeltPixel</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-lazy-load-product-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Lazy Load Products and Images by WeltPixel</a></h3>
